@@ -1,7 +1,7 @@
 # project-real-life-arcade
 This is a python program that simulates an arcade game where players have to physically move their fingers and their bodies.
 
-#Instructions
+## Instructions
 
 Below is an image of what the game may look like.
 The objective of the game is to shoot the bats while physically following the instructions displayed.
